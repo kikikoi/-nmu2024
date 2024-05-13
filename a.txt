@@ -6,4 +6,5 @@ I want to try a new set of attributes to a.txt in dev branch.
 Continue modifying attributes.
 Test result is satisfied.
 
+Chang a.txt from remote
 change a.txt by local nmu2024

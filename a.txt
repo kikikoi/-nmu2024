@@ -9,4 +9,4 @@ Test result is satisfied.
 Chang a.txt from remote
 change a.txt by local nmu2024
 
-change a.txt to local/myid branch
+Fix bug #2

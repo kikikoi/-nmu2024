@@ -10,3 +10,5 @@ Chang a.txt from remote
 change a.txt by local nmu2024
 
 Fix bug #2
+
+Fix bug #4
